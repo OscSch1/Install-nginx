@@ -1,1 +1,5 @@
 # Install-nginx
+
+
+
+gcloud init
